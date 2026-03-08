@@ -18,7 +18,9 @@ TBJZD8RwQ1JcQvEP9BTbPbgBCGxUjxSXnn
 
 ## Website
 
-https://korion.io
+https://www.korion.network/
+https://www.korion.io.kr/dashboard
+
 
 ## Ecosystem
 
